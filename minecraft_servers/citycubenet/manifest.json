@@ -3,9 +3,10 @@
   "nice_name": "CityCube",
   "direct_ip": "citycube.net",
   "server_wildcards": [
-    "%.laby.net"
+    "play.citycube.net"
   ],
   "supported_languages": [
+     "en",
      "de"
   ],
   "social": {
